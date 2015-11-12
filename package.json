@@ -1,6 +1,6 @@
 {
   "name": "uploadify-usages",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "uploadify usages",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.11.2",
-    "html2jade": "^0.8.4",
-    "jade": "^1.11.0",
-    "open": "0.0.5",
-    "socket.io": "^1.3.7"
+    "open": "0.0.5"
   }
 }
