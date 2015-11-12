@@ -1,19 +1,19 @@
-# hade = html2jade
+# uploadify usages
 
 html to jade
 
-[![npm version](https://badge.fury.io/js/hade.svg)](http://badge.fury.io/js/hade)
+[![npm version](https://badge.fury.io/js/uploadify.svg)](http://badge.fury.io/js/uploadify)
 
 ## Install 
 
-    [sudo] npm install -g hade
+    [sudo] npm install -g uploadify-usages
   
 ## Usage
 
 in terminal 
 
 ```
-hade
+uploadify
 ```
 
 ![](ScreenShot.png)
