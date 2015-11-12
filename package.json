@@ -1,7 +1,7 @@
 {
-  "name": "hade",
+  "name": "uploadify-usages",
   "version": "1.0.3",
-  "description": "html to jade",
+  "description": "uploadify usages",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
@@ -9,8 +9,7 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "hade": "index.js",
-    "lade": "index.js"
+    "uploadify": "index.js"
   },
   "author": "",
   "license": "ISC",
